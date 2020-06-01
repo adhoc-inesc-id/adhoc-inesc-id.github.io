@@ -44,5 +44,5 @@ Senior Reseacher
 
 ---
 
-![](publications/inesc-logo.png =x50) ![](publications/puc-logo.png =x50)
+![](images/inesc-logo.png =x50) ![](images/puc-logo.png =x50)
 
