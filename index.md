@@ -1,7 +1,3 @@
----
-layout:default
----
-
 ## Overview of the project
 
 Recent years have witnessed a profound transformation in the use of intelligent technology in our daily lives.
@@ -48,5 +44,5 @@ Senior Reseacher
 
 ---
 
-![](publications/inesc-logo.png) ![](publications/puc-logo.png)
+![](publications/inesc-logo.png =x50) ![](publications/puc-logo.png =x50)
 
