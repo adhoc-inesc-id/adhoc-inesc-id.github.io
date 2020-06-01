@@ -16,6 +16,8 @@ The two main project goals are to explore the scientific and technological chall
 
 * **Developing robust forms of natural interaction**, including natural language interactions, and how contextual and environment information, collected by a sensor network, can improve the interaction between robot and human agents during joint collaborative tasks involving activities in a physical environment.
 
+---
+
 ## Team
 
 The project is a collaboration between [INESC-ID](www.inesc-id.pt) and [PUC-Rio](www.puc-rio.br).
@@ -44,5 +46,5 @@ Senior Reseacher
 
 ---
 
-![](images/inesc-logo.png =x50) ![](images/puc-logo.png =x50)
+<img src="images/inesc-logo.png" alt="INESC-ID" height="50px"/> <img src="images/puc-logo.png" alt="PUC-Rio" height="50px"/>
 
