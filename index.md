@@ -45,6 +45,6 @@ Senior Reseacher
 <script src="https://bibbase.org/show?bib=https://adhoc-inesc-id.github.io/biblio.bib&jsonp=1&theme=simple"></script>
 
 ---
-![images/inesc-logo.png](images/inesc-logo.png){: height="75px" style="float:left; padding-right:20px"}
+![images/inesc-logo.png](Bla, bla, bla){: height="75px" style="float:left; padding-right:20px"}
 <img src="" alt="INESC-ID" height="50px"/> <img src="images/puc-logo.png" alt="PUC-Rio" height="50px"/>
 
