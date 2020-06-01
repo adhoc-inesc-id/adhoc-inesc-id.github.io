@@ -1,2 +1,3 @@
-# adhoc-inesc-id.github.io
-Webpage for the AFOSR-funded project on ad hoc teamwork.
+# Repository for the project's webpage
+
+This repository contains the code for the project's webpage.
