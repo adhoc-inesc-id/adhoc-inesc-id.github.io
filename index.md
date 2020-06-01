@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+---
+layout:default
+---
 
-You can use the [editor on GitHub](https://github.com/adhoc-inesc-id/adhoc-inesc-id.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Overview of the project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Recent years have witnessed a profound transformation in the use of intelligent technology in our daily lives.
+This technology is now an ubiquitous reality that provides us with personal assistants deployed in several
+platforms, ranging from small devices, such as smart phones, smart watches and smart speakers, to domestic robots, such as [Roomba](https://www.irobot.com/roomba) and [Pepper](https://www.softbankrobotics.com/emea/en/pepper).
 
-### Markdown
+As the number of robots continues to increase, we expect to see robots interacting more and more with a variety of other robots and humans. In many of these interactions, the robots may share the same goal and consequently cooperate to achieve that goal. However, many robots may not have coordination and standard communication protocols, because they have been designed by different developers and at different times. Hence, robots have to observe the teammates, reason about their strategy and act in order to achieve the common goal.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This area of research is called _ad hoc teamwork_ and is focused on building learning agents, such as softbots or robots, that engage in cooperative tasks with other unknown agents. The agent must effectively coordinate with the other agents towards completion of the intended task, not relying on any predefined coordination strategy. In this project, we focus on the challenging goal of ad hoc teams of humans and robots. The project aims to go beyond the typical "master-slave" and "one-robot-one-human" type of interaction, pushing step changes in the current state-of-the-art in terms of human-robot interactions.
 
-```markdown
-Syntax highlighted code block
+### Goal and Objectives
 
-# Header 1
-## Header 2
-### Header 3
+The two main project goals are to explore the scientific and technological challenges involved in:
 
-- Bulleted
-- List
+* **Developing human-robot ad hoc teams**. We will test the developed technology in the context of a physical game involving humans and robots in order to investigate how to extend ad hoc teamwork methods and multi-agent planning under uncertainty to cooperative scenarios involving human and robot agents.
 
-1. Numbered
-2. List
+* **Developing robust forms of natural interaction**, including natural language interactions, and how contextual and environment information, collected by a sensor network, can improve the interaction between robot and human agents during joint collaborative tasks involving activities in a physical environment.
 
-**Bold** and _Italic_ and `Code` text
+## Team
 
-[Link](url) and ![Image](src)
-```
+The project is a collaboration between [INESC-ID](www.inesc-id.pt) and [PUC-Rio](www.puc-rio.br).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### INESC-ID
 
-### Jekyll Themes
+* [**José Alberto Sardinha**](http://web.ist.utl.pt/ist25149/)  
+Principal Investigator
+* [**Francisco S. Melo**](http://gaips.inesc-id.pt/~fmelo)
+Senior Researcher
+* **João Ribeiro**
+PhD Student
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adhoc-inesc-id/adhoc-inesc-id.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### PUC-Rio
 
-### Support or Contact
+* **Ruy Luiz Milidiú**
+Principal Investigator
+* **Júlio Duarte**
+Senior Reseacher
+* **Rafael Rocha**
+Senior Reseacher
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Publications
+
+<script src="https://bibbase.org/show?bib=https://adhoc-inesc-id.github.io/biblio.bib&jsonp=1&theme=simple"></script>
+
+
+
