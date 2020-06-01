@@ -26,18 +26,18 @@ The project is a collaboration between [INESC-ID](http://www.inesc-id.pt) and [P
 
 * [**José Alberto Sardinha**](http://web.ist.utl.pt/ist25149/)  
 Principal Investigator
-* [**Francisco S. Melo**](http://gaips.inesc-id.pt/~fmelo)
+* [**Francisco S. Melo**](http://gaips.inesc-id.pt/~fmelo)  
 Senior Researcher
-* **João Ribeiro**
+* **João Ribeiro**  
 PhD Student
 
 ### PUC-Rio
 
-* **Ruy Luiz Milidiú**
+* **Ruy Luiz Milidiú**  
 Principal Investigator
-* **Júlio Duarte**
+* **Júlio Duarte**  
 Senior Reseacher
-* **Rafael Rocha**
+* **Rafael Rocha**  
 Senior Reseacher
 
 ## Publications
